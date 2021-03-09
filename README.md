@@ -6,7 +6,8 @@ Parallel to notion of child mortality is of course maternal mortality, which acc
 
 In light of what was mentioned above, Cardiotocograms (CTGs) are a simple and cost accessible option to assess fetal health, allowing healthcare professionals to take action in order to prevent child and maternal mortality. The equipment itself works by sending ultrasound pulses and reading its response, thus shedding light on fetal heart rate (FHR), fetal movements, uterine contractions and more.  
 
-Aim of this project was to classify the health of a fetus as Normal, Suspect or Pathological using Cardiotocogram (CTG) data in order to prevent child and maternal mortality. 4 ML algorithms used in the project were:  
+Aim of this project was to classify the health of a fetus as Normal, Suspect or Pathological using Cardiotocogram (CTG) data in order to prevent child and maternal mortality.  
+4 ML algorithms used in the project were:  
 - *Random Forest*  
 - *Decsion Trees*
 - *Logistic Regression*
