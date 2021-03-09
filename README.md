@@ -10,7 +10,14 @@ In light of what was mentioned above, Cardiotocograms (CTGs) are a simple and co
 - Random Forest  
 - Decsion Trees
 - Logistic Regression
-- K-Nearest Neighbours (KNN)
+- K-Nearest Neighbours (KNN)  
+
+This dataset contains 2126 records of features extracted from Cardiotocogram exams, which were then classified by three expert obstetricians into 3 classes:
+- Normal (1)
+- Suspect (2)
+- Pathological (3)
+
+The dataset shape: (2126, 22)
 
 This repository contains the following files:
 1. Code
