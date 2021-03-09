@@ -5,3 +5,9 @@ The UN expects that by 2030, countries end preventable deaths of newborns and ch
 Parallel to notion of child mortality is of course maternal mortality, which accounts for 295 000 deaths during and following pregnancy and childbirth (as of 2017). The vast majority of these deaths (94%) occurred in low-resource settings, and most could have been prevented.  
 
 In light of what was mentioned above, Cardiotocograms (CTGs) are a simple and cost accessible option to assess fetal health, allowing healthcare professionals to take action in order to prevent child and maternal mortality. The equipment itself works by sending ultrasound pulses and reading its response, thus shedding light on fetal heart rate (FHR), fetal movements, uterine contractions and more.  
+
+In this project, 4 different algorithms were used:  
+- Random Forest  
+- Decsion Trees
+- Logistic Regression
+- K-Nearest Neighbours (KNN)
