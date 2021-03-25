@@ -9,7 +9,7 @@ In light of what was mentioned above, Cardiotocograms (CTGs) are a simple and co
 Aim of this project was to classify the health of a fetus as Normal, Suspect or Pathological using Cardiotocogram (CTG) data in order to prevent child and maternal mortality.  
 4 ML algorithms used in the project were:  
 - *Random Forest*  
-- *Decsion Trees*
+- *Decision Trees*
 - *Logistic Regression*
 - *K-Nearest Neighbours (KNN)*  
 
